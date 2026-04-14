@@ -1,17 +1,62 @@
-# Sales Forecasting Using Time-Series Data
+# 📊 Sales Forecasting Using Time-Series Data
 
 ## 🚀 Live Demo
-👉 https://sales-forecasting-using-time-series-data-h8zrzixpp2gstrdr7wzeg.streamlit.app/
+
+👉 https://sales-forecasting-using-time-series-data-h8zrizxpp2gstrdr7wzeg.streamlit.app/
+
+---
+
+## 📸 Preview
+
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Sales+Forecasting+App)
+
+---
 
 ## 📌 Description
-This project predicts weekly sales using a Random Forest model trained on historical Walmart sales data.
+
+This project is an end-to-end machine learning application that predicts weekly sales using a Random Forest model trained on historical Walmart sales data. The model is deployed using Streamlit with an interactive user interface, allowing users to input parameters and get real-time predictions.
+
+---
 
 ## 🛠 Tech Stack
-- Python
-- Machine Learning (Random Forest)
-- Streamlit
+
+* Python
+* Machine Learning (Random Forest Regressor)
+* Streamlit
+* Pandas, NumPy, Scikit-learn
+
+---
 
 ## ✨ Features
-- Interactive UI
-- Real-time prediction
-- Clean dashboard design
+
+* Interactive UI with dropdowns and sliders
+* Real-time sales prediction
+* Clean and modern dashboard design
+* Deployed web application
+
+---
+
+## 🧠 Model
+
+* Algorithm: Random Forest Regressor
+* Type: Supervised Learning
+* Task: Time-Series Forecasting
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/t4a9a/Sales-Forecasting-Using-Time-Series-Data.git
+cd Sales-Forecasting-Using-Time-Series-Data
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 👨‍💻 Author
+
+**Vaibhab Singh Thapa**
+
+---
