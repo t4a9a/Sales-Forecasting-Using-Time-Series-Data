@@ -8,7 +8,11 @@
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Sales+Forecasting+App)
+## 📸 Preview  
+
+![App UI](https://raw.githubusercontent.com/t4a9a/Sales-Forecasting-Using-Time-Series-Data/main/ss_1.png)
+
+![Prediction Output](https://raw.githubusercontent.com/t4a9a/Sales-Forecasting-Using-Time-Series-Data/main/ss_2.png)
 
 ---
 
