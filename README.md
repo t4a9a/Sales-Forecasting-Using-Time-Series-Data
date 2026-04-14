@@ -6,8 +6,6 @@
 
 ---
 
-## 📸 Preview
-
 ## 📸 Preview  
 
 ![App UI](https://raw.githubusercontent.com/t4a9a/Sales-Forecasting-Using-Time-Series-Data/main/ss_1.png)
@@ -59,7 +57,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## Developed by -
 
 **Vaibhab Singh Thapa**
 
