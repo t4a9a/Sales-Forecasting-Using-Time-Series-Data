@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://sales-forecasting-using-time-series-data-h8zrizxpp2gstrdr7wzeg.streamlit.app/
+👉 https://sales-forecasting-using-time-series-data-h8zrzixpp2gstrdr7wzeg.streamlit.app/
 
 ---
 
